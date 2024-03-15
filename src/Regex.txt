@@ -1,0 +1,7 @@
+(G|g)loom(y|ed|ing|s|\s)
+(H|h)aunt(ing|s|ed|y|\s)
+(M|m)yster(ious|iously|y)
+(F|f)orebod(ing|e|ed)
+(M|m)elanchol(ic|y)
+(T|t)err(or|if)(s|ed|ing|ied|ying|\s)
+(D|d)esolate(\s|s|d)
